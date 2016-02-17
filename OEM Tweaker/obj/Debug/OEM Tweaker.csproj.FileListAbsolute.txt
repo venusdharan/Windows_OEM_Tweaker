@@ -1,0 +1,16 @@
+C:\Users\triophore1\Documents\Visual Studio 2013\Projects\OEM Tweaker\OEM Tweaker\obj\Debug\OEM_Tweaker.Form1.resources
+C:\Users\triophore1\Documents\Visual Studio 2013\Projects\OEM Tweaker\OEM Tweaker\obj\Debug\OEM_Tweaker.Properties.Resources.resources
+C:\Users\triophore1\Documents\Visual Studio 2013\Projects\OEM Tweaker\OEM Tweaker\obj\Debug\OEM Tweaker.csproj.GenerateResource.Cache
+C:\Users\triophore1\Documents\Visual Studio 2013\Projects\OEM Tweaker\OEM Tweaker\obj\Debug\OEM Tweaker.csprojResolveAssemblyReference.cache
+C:\Users\triophore1\Documents\Visual Studio 2013\Projects\OEM Tweaker\OEM Tweaker\bin\Debug\OEM Tweaker.exe
+C:\Users\triophore1\Documents\Visual Studio 2013\Projects\OEM Tweaker\OEM Tweaker\bin\Debug\OEM Tweaker.pdb
+C:\Users\triophore1\Documents\Visual Studio 2013\Projects\OEM Tweaker\OEM Tweaker\obj\Debug\OEM Tweaker.exe
+C:\Users\triophore1\Documents\Visual Studio 2013\Projects\OEM Tweaker\OEM Tweaker\obj\Debug\OEM Tweaker.pdb
+C:\Users\Triophore-2\Documents\OEM Tweaker\OEM Tweaker\obj\Debug\OEM Tweaker.exe
+C:\Users\Triophore-2\Documents\OEM Tweaker\OEM Tweaker\obj\Debug\OEM Tweaker.pdb
+C:\Users\Triophore-2\Documents\OEM Tweaker\OEM Tweaker\bin\Debug\OEM Tweaker.exe
+C:\Users\Triophore-2\Documents\OEM Tweaker\OEM Tweaker\bin\Debug\OEM Tweaker.pdb
+C:\Users\Triophore-2\Documents\OEM Tweaker\OEM Tweaker\obj\Debug\OEM Tweaker.csprojResolveAssemblyReference.cache
+C:\Users\Triophore-2\Documents\OEM Tweaker\OEM Tweaker\obj\Debug\OEM_Tweaker.Form1.resources
+C:\Users\Triophore-2\Documents\OEM Tweaker\OEM Tweaker\obj\Debug\OEM_Tweaker.Properties.Resources.resources
+C:\Users\Triophore-2\Documents\OEM Tweaker\OEM Tweaker\obj\Debug\OEM Tweaker.csproj.GenerateResource.Cache
